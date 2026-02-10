@@ -1,0 +1,2 @@
+# Webtraffic-of-Crypto-Exchanges-2026-regularly-updated
+This dataset provides a comprehensive overview of 27 cryptocurrency exchanges both decentralised (DEX) and centralised (CEX) detailing their total visits for January and month-over-month traffic changes. For each platform, the five largest contributing countries are listed alongside their respective traffic share and percentage change in visits.
