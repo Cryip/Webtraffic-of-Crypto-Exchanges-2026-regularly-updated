@@ -3,3 +3,6 @@ This dataset provides a comprehensive overview of 27 cryptocurrency exchanges bo
 
 # Web Traffic of Cryptocurrency Exchanges – January 2026
 The full January 2026 exchange traffic report is available at: https://cryip.co/web-traffic-of-cryptocurrency-exchanges-january-2026/
+
+# Web Traffic of Centralized Cryptocurrency Exchanges – February 2026
+
