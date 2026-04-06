@@ -7,3 +7,6 @@ The full January 2026 exchange traffic report is available at: https://cryip.co/
 # Web Traffic of Centralized Cryptocurrency Exchanges – February 2026
 The full February 2026 centralized cryptocurrency exchange traffic report is available at: https://cryip.co/web-traffic-of-centralized-cryptocurrency-exchanges-february-2026/
 
+# Web Traffic of Centralized Cryptocurrency Exchanges – March 2026
+
+The complete March 2026 centralized cryptocurrency exchange traffic report is available at: https://cryip.co/web-traffic-of-centralized-cryptocurrency-exchanges-march-2026/
