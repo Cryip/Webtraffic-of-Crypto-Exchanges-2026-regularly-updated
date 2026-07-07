@@ -26,4 +26,7 @@ The complete April 2026 cryptocurrency exchange web traffic report is available 
 
 The full May 2026 centralized cryptocurrency exchange traffic report is available at:https://cryip.co/web-traffic-data-of-cryptocurrency-exchanges-may-2026/
 
+# Crypto Exchange Web Traffic Report for June 2026: Binance Retains Its Lead as Regional CEXs Gain Momentum
+
+The complete June 2026 Crypto Exchange Web Traffic Report is available at: https://cryip.co/crypto-exchange-web-traffic-report-june-2026-binance-regional-cexs/
 
